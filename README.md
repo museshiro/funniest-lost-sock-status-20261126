@@ -1,8 +1,8 @@
 # Funniest Lost Sock Status Update
 
-[![Competition](https://make.fun/api/competitions/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/badge/competition)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
-[![Rank](https://make.fun/api/competitions/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/badge/rank/museshiro/funniest-lost-sock-status-20261126)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
-[![Reward](https://make.fun/api/competitions/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/badge/reward/museshiro/funniest-lost-sock-status-20261126)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+[![Competition](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+[![Rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/museshiro/funniest-lost-sock-status-20261126/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
+[![Reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce/museshiro/funniest-lost-sock-status-20261126/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce)
 
 Entry for the [Funniest Lost Sock Status Update](https://make.fun/bounty/u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce) bounty on make.fun.
 
